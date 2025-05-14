@@ -18,7 +18,7 @@ A Rust-based SQL parser that can tokenize and parse basic SQL statements like `S
 
 ## 🧠 Technologies Used
 
-- [Rust](https://www.rust-lang.org/)
+- Rust
 - CLI (Command Line Interface)
 - Pratt Parsing (top-down operator precedence)
 - AST (Abstract Syntax Tree)
